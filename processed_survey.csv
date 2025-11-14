@@ -1,0 +1,111 @@
+stage,q_num,question_var_example,label,mean,observations
+Checklist 1,1,checklist_1_timestamp,,2.5,
+Checklist 1,2,q2,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Uso adequado e completo dos EPI's (minimamente as luvas)</span></p></div>",1.0,"Auditor 4: Aluno sem máscara
+Auditor 7: alguns sem mascara"
+Checklist 1,3,q3,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Aplicação do método Start em até 30 segundos, com identificação correta via cartão</span></p></div>",1.0,"Auditor 4: Algumas vítimas não foram identificados (confinada). Várias pessoas em uma única vítima. Vítima vermelha identificado como preta.
+Auditor 7: muitos na mesma vítima, falta de avaliação do número de vítimas total / geral"
+Checklist 1,4,q4,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Definição que qual vítima deva ser abordada primeiro</span></p></div>",1.0,Auditor 4: Algumas vítimas graves não foram identificadas. Erro na classificação. 
+Checklist 1,5,q5,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Rapidez e segurança na extração da vítima (aplicação de colar cervical, pranchamento e passagem dos tirantes)</span></p></div>",1.0,"Auditor 4: Alguns alunos sabiam protocolo, outros não "
+Checklist 1,6,q6,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Transporte para a Zona fria de forma organizada</span></p></div>",1.5,Auditor 4: Pranchamento realizado de forma correta por alguns alunos e outros não 
+Checklist 1,7,q7,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Posicionamento do paciente correto pela classificação, na lona correta (com as cabeças voltadas para a área externa da lona)</span><br /><br /></p></div>",0.5,Auditor 4: Zona vermelha e amarelo com as cabeças viradas pro mesmo lado. Paciente metanol amarelo em lona vermelha.
+Checklist 1,8,q8,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Organização das lonas com posicionamento correto de todos os materiais</span><br /><br /><br /></p></div>",0.5,Auditor 4: Bagunça em lona devido a posicionamento errado da cabeça das vítimas 
+Checklist 1,9,q9,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Reaplicação do START</span><br /><br /></p></div>",0.0,Auditor 4: Vítimas classificados erradas.
+Checklist 2,10,q10,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação de sangramentos exasanguinantes com as devidas tratativas em caso positivo (compressão manual, técnica de empacotamento, uso de torniquete)</span></p></div>",2.0,Auditor 6: Realizado corretamente  
+Checklist 2,11,q11,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Desobstrução de Vias Aéreas (A) com manobras de chin lift ou Jaw Thrust, em casos de pacientes irresponsivos e máscara não-reinalante à 15 l/min para pacientes responsivos</span><br /><br /></p></div>",2.0,Auditor 6:  Realizados corretamente  
+Checklist 2,12,q12,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação e suporte relacionado a Respiração (B). Propedêutica realizada (inspeção, palpação, percussão e ausculta) e identificação das injúrias, com os tratamentos adequados de acordo com o protocolo do PHTLS</span></p></div>",2.0,Auditor 6: Realizado corretamente 
+Checklist 2,13,q13,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação e suporte à Circulação (C), com avaliação dos 3 P's (pele, pulso e perfusão), para avaliação de choque hemorrágico e necessidade de contenção de hemorragias (reconhecimento e estabilização de fraturas, por exemplo). Validação se houve a punção de um acesso venoso, calibre 18</span></p></div>",2.0,Auditor 6: Realizado corretamente 
+Checklist 2,14,q14,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação da escala de coma de glasgow com análise pupilar</span><br /><br /></p></div>",0.0,Auditor 6: não foi realizado
+Checklist 2,15,q15,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação de possíveis lesões que passaram despercebidas. Avaliação através da exposição completa, se houve proteção contra hipotermia, movimentação em bloco para avaliação de dorso. Passagem de tirantes, preparo para transporte</span><br /><br /></p></div>",1.0,"Auditor 6: não houve exposição sa vítima apresentava fim de avaliação de lesões,  Não houve movimentação em bloco pata avaliação de dorso."
+Checklist 2,16,q16,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Priorização do transporte. Respeitou a prioridade das categorias de triagem para transporte?</span><br /><br /><br /></p></div>",2.0,Auditor 6: Realizado claramente
+Checklist 2,17,q17,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Comunicação com a Regulação Médica e hospital de destino? Utilizou SBAR? Passou informações essenciais sobre a vítima e prioridade de forma clara?</span><br /><br /><br /></p></div>",2.0,Auditor 6: Realizado de maneira correta 
+Checklist 2,18,q18,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Continuidade do XABCDE durante o transporte. Monitorizou a vítima? Manteve intervenções? Reavaliou o estado do paciente?</span><br /><br /></p></div>",1.0,
+Checklist 2,19,q19,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Passagem de caso adequada na chegada ao hospital. Passou informações relevantes de forma concisa e completa para a equipe hospitalar? Validou o MIST</span><br /><br /></p></div>",1.0,"Auditor 6: Nap houve passagem do caso no primeiro momento, após a falar da professora a equipe do PS resolveu coletar informações da equipe do transporte."
+Checklist 2,2,checklist_2_timestamp,,2.4285714285714284,
+Checklist 3,100,q100,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação de sangramentos exasanguinantes com as devidas tratativas em caso positivo (compressão manual, técnica de empacotamento, uso de torniquete)</span></p></div>",2.0,
+Checklist 3,110,q110,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Desobstrução de Vias Aéreas (A) com manobras de chin lift ou Jaw Thrust, em casos de pacientes irresponsivos e máscara não-reinalante à 15 l/min para pacientes responsivos</span><br /><br /></p></div>",2.0,
+Checklist 3,120,q120,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação e suporte relacionado a Respiração (B). Propedêutica realizada (inspeção, palpação, percussão e ausculta) e identificação das injúrias, com os tratamentos adequados de acordo com o protocolo do PHTLS</span></p></div>",2.0,
+Checklist 3,130,q130,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação e suporte à Circulação (C), com avaliação dos 3 P's (pele, pulso e perfusão), para avaliação de choque hemorrágico e necessidade de contenção de hemorragias (reconhecimento e estabilização de fraturas, por exemplo). Validação se houve a punção de um acesso venoso, calibre 18</span></p></div>",2.0,
+Checklist 3,140,q140,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação da escala de coma de glasgow com análise pupilar</span><br /><br /></p></div>",2.0,
+Checklist 3,150,q150,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação de possíveis lesões que passaram despercebidas. Avaliação através da exposição completa, se houve proteção contra hipotermia, movimentação em bloco para avaliação de dorso. Passagem de tirantes, preparo para transporte</span><br /><br /></p></div>",2.0,
+Checklist 3,160,q160,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Priorização do transporte. Respeitou a prioridade das categorias de triagem para transporte?</span><br /><br /><br /></p></div>",2.0,
+Checklist 3,170,q170,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Comunicação com a Regulação Médica e hospital de destino? Utilizou SBAR? Passou informações essenciais sobre a vítima e prioridade de forma clara?</span><br /><br /><br /></p></div>",1.0,
+Checklist 3,180,q180,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Continuidade do XABCDE durante o transporte. Monitorizou a vítima? Manteve intervenções? Reavaliou o estado do paciente?</span><br /><br /></p></div>",2.0,
+Checklist 3,190,q190,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Passagem de caso adequada na chegada ao hospital. Passou informações relevantes de forma concisa e completa para a equipe hospitalar? Validou o MIST</span><br /><br /></p></div>",2.0,
+Checklist 3,20,obs20,Observação:,,Auditor 3: Avaliou
+Checklist 3,21,obs21,Observação:,,Auditor 3: Via aérea desobstruida
+Checklist 3,22,obs22,Observação:,,Auditor 3: Avaliou que a FR estava alta e tratou com máscara de alto fluxo
+Checklist 3,23,obs23,Observação:,,"Auditor 3: Houve a palpação, apresenta Trauma abdominal, ainda não apresentava Sinais de choque."
+Checklist 3,24,obs24,Observação:,,Auditor 3: Verificam que está consciente e orientado e já faz o Sampla
+Checklist 3,25,obs25,Observação:,,Auditor 3: Já observa demais escoriações 
+Checklist 3,26,obs26,Observação:,,Auditor 3: sim
+Checklist 3,27,obs27,Observação:,,Auditor 3: Não sabiam que era o líder da regulação
+Checklist 3,28,obs28,Observação:,,Auditor 3: Sim
+Checklist 3,29,obs29,Observação:,,Auditor 3: Sim
+Checklist 3,3,checklist_3_timestamp,,3.0,
+Checklist 4,20,q20,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">A passagem de plantão das vitimas foi realizado de forma adequada?<br />Sala aquecida à 39°C e materiais testados?</span></p></div>",0.5,
+Checklist 4,200,obs200,Observação:,,"Auditor 1: Temperaturas em nenhuma das salas não avaliadas.
+Auditor 2:  foi perguntado em somente 1 leito a temperatura do ambiente. A passagem de plantão faltaram informações. Faltou a definição de liderança"
+Checklist 4,201,obs201,Observação:,,"Auditor 1: Óculos não utilizados. Luvas não trocadas entre os pacientes.
+Auditor 2: óculos não utilizados. luvas não trocadas a cada paciente."
+Checklist 4,202,obs202,Observação:,,"Auditor 1: Vitima queimada não avaliado as costas. Oportunidade em todas as vítimas 
+Auditor 2: falta de avaliação em torniquetes."
+Checklist 4,203,obs203,Observação:,,"Auditor 1: Nao Avaliado driver. Sem conduta após 10 minutos de chegadas. 
+Auditor 2: Com muito auxílio e instigação do raciocínio clínico.  exemplo: paciente de extubado, sem o incentivo do avaliador fica ""vago"" a necessidade de intubação. Dentro disso o avaliador ""estiga"" o raciocínio."
+Checklist 4,204,obs204,Observação:,,"Auditor 1: Vítima Queimada avaliada sem driver. Locais de avaliacoes dos exames físicos equivocados. 
+Auditor 2: dados errôneos referente a ventilador."
+Checklist 4,205,obs205,Observação:,,"Auditor 1: Costas não avaliadas. Oportunidades em avaliações e tomadas de decisões. 
+Auditor 2: faltou validação em acessos venoso ex: (número do jelco/extravazamentos). Exames faltantes em diversos casos como gasometrias, coagulogramas."
+Checklist 4,206,obs206,Observação:,,"Auditor 1: vítima Queimada sem conduta. Não solicitado gasometria.
+Auditor 2: não dada a conduta de gasometria sem a instigação do avaliador."
+Checklist 4,207,obs207,Observação:,,"Auditor 1: vítima Queimada avaliada.
+Auditor 2: não dada o numeração com o cálculos das pupilas corretamente."
+Checklist 4,208,obs208,Observação:,,"Auditor 1: Costas não avaliadas.
+Auditor 2:  avaliado dorso de somente 2 pacientes. não verificaram as temperaturas, somente queimado."
+Checklist 4,209,obs209,Observação:,,"Auditor 1: Não dada conduta vítima Queimada Vítima criança encaminhada ao centro cirúrgico. Vítima Politrauma tomografia. Paciente reeducando transferido para o centro cirúrgico  Vitima trauma abdominal transferido.
+Auditor 2: feito o encaminhamento pra tomo, cc ou uti como um ""chute"" de maneira rápida para liberação do leito."
+Checklist 4,21,q21,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Uso adequado e completo dos EPI's (luvas, máscaras, aventais, óculos de proteção)</span></p></div>",0.5,
+Checklist 4,210,obs210,Observação:,,"Auditor 1: Sem informações clara. Dificuldade da líder definir papéis e responsabilidades.
+Auditor 2: faltou dados no Sbar como sintomas e exames "
+Checklist 4,211,obs211,Observação:,,"Auditor 1: Vítima Queimada não monitorização. Evolui a PCR em FV.
+Auditor 2: sem reavaliações durante o atendimento."
+Checklist 4,23,q23,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação de sangramentos exasanguinantes com as devidas tratativas em caso positivo (compressão manual, técnica de empacotamento, uso de torniquete)</span></p></div>",0.5,
+Checklist 4,24,q24,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Desobstrução de Vias Aéreas (A) com manobras de chin lift ou Jaw Thrust, em casos de pacientes irresponsivos e máscara não-reinalante à 15l/min para pacientes responsivos</span></p></div>",1.0,
+Checklist 4,25,q25,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação e suporte relacionado a Respiração (B). Propedêutica realizada (inspeção, palpação, percussão e ausculta) e identificação das injúrias, com os tratamentos adequados de acordo com o protocolo do ATLS. Para pacientes estáveis, sugestão do e-fast</span></p></div>",0.5,
+Checklist 4,26,q26,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação e suporte à Circulação (C), com avaliação dos 3 P's (pele, pulso e perfusão), para avaliação de choque hemorrágico e necessidade de contenção de hemorragias (reconhecimento e estabilização de fraturas, por exemplo). Validação se houve a punção de um acesso venoso, calibre 18, coleta de exames (hb, ht, tipagem, prova cruzada, gasometria arterial e BHcg para mulheres em idade fértil. Para populações especiais, coleta de coagulograma). Levantou a hipótese de se ter epecialistas em sala?</span></p></div>",0.5,
+Checklist 4,27,q27,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação da gasometria (parâmetro base excess), para validação do choque hemorrágico. Definição da classe do choque com tratameto corret (Infusão de 01 l de RL aquecido à 39°C e reposição de hemocomponentes 1:1:1). Indicação do Fast nas quatro janelas (hepato-renal, expleno-renal, peridárdica e pélvica) e validação da possibilidade de mandar o paciente para a realização de tomografia (se tiver estável)</span></p></div>",0.5,
+Checklist 4,28,q28,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação da escala de coma de glasgow com análise pupilar</span></p></div>",1.5,
+Checklist 4,29,q29,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Avaliação de possíveis lesões que passaram despercebidas. Avaliação através da exposição completa, se houve proteção contra hipotermia, movimentação em bloco para avaliação de dorso. Passagem de tirantes, preparo para transporte</span></p></div>",0.5,
+Checklist 4,30,q30,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Priorização para o local a ser encaminhado. Pacientes estáveis (tomografia para estadiamento de lesões), pacientes instáveis (centro-cirúrgico), opção por tratamento conservador (UTI)</span></p></div>",1.0,
+Checklist 4,31,q31,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Passagem de plantão para o destino de forma adequada? Utilizou SBAR? Passou informações essenciais sobre a vítima e prioridade de forma clara?</span></p></div>",0.5,
+Checklist 4,32,q32,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Monitorizou a vítima? Manteve intervenções? Reavaliou o estado do paciente durante o transporte?</span></p></div>",0.5,
+Checklist 4,4,checklist_4_timestamp,,2.5,
+Planejamento,1,plan_q1,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Participou de todas as reuniões? (total 02 reuniões)</span></p></div>",0.8333333333333334,"Auditor 3: Não pude estar presente, pois as reuniões eram presenciais.
+Auditor 4: Não participei
+Auditor 6: A reunião que participei foi esclarecedora, obtive todas as informações necessárias para entender a dinâmica pedagógica, bem como a logística do cenário do IMV."
+Planejamento,10,plan_q10,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">O horário de início foi respeitado?</span></p></div>",1.0,"Auditor 1: Revisar cumprimento de horários conforme acordado.
+Auditor 2: o iniciar do vídeo (start) foi as 9h 18min.
+Auditor 3: houve atraso 
+Auditor 4: Horário de início previsto para as 08h
+Auditor 6: Dentro do previsto."
+Planejamento,11,plan_q11,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">As instruções realizadas previamente aos observadores foi adequada</span><span style=""font-weight: normal;"">?</span></p></div>",2.0,"Auditor 3: sim
+Auditor 6: sim"
+Planejamento,2,plan_q2,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Os tempos para discussão nas reuniões, das quais você participou, ultrapassaram 90 minutos? </span></p></div>",0.3333333333333333,"Auditor 3: Não pude estar presente, pois as reuniões eram presenciais.
+Auditor 4: Não participei
+Auditor 6: O tempo foi necessário para entendimento."
+Planejamento,3,plan_q3,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">O tema do simulado ficou claro?</span></p></div>",2.0,"Auditor 3: O tema é a dinâmica ficaram muito claros.
+Auditor 6: Discussão clara e coesa sobre o tema, abordado de maneira efetiva."
+Planejamento,4,plan_q4,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">Do time da coordenação do Simulado, ficou claro de quem é o papel da Liderança? </span></p></div>",2.0,"Auditor 3: Sim
+Auditor 6: Muito claro. "
+Planejamento,5,plan_q5,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">A definição dos números de vítimas e das lesões ficaram ajustadas de forma adequada?</span></p></div>",1.8333333333333333,"Auditor 2: Em determinado momento, acrescentou a quantidade de 2 vítimas para ocupar o intrahospitalar onde não foi passado o caso em definitivo no planejamento.
+Auditor 3: Sim
+Auditor 6: Número nem equilibrado em relação a quantidade de alunos e espaço físico. "
+Planejamento,6,plan_q6,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">A distribuição das funções/distribuição dos professores, foi demonstrada de forma a proporcionar um bom entendimento de atuação individual?</span></p></div>",2.0,"Auditor 3: Sim
+Auditor 6: Tudo bem claro."
+Planejamento,7,plan_q7,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">A definição e atribuição dos alunos que assumirão os cargos de liderança, ficou bem ajustado?</span></p></div>",1.6666666666666667,"Auditor 1: Revisar critérios de seleção das lideranças. 
+Auditor 3: Sim
+Auditor 6: Nao estive presente nesta reunião. "
+Planejamento,8,plan_q8,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">A distribuição das vítimas na zona quente, foi idealmente planejada?</span></p></div>",1.6666666666666667,"Auditor 3: Muito bem planejado, todos os detalhes.
+Auditor 6: Não estive presente nesta reunião "
+Planejamento,9,plan_q9,"<div class=""rich-text-field-label""><p><span style=""font-weight: normal;"">O planejamento de maquiagem das vítimas e orientação dos sombras foi realizada de forma organizada?</span></p></div>",1.5,"Auditor 1: Início de maquiagem morosa.
+Auditor 3: Ficaram ótimas
+Auditor 6: Não estive presente nesta reunião "
