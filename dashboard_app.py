@@ -5,7 +5,7 @@ import pandas as pd
 from dash import Dash, html, dcc, dash_table, Input, Output, State
 import plotly.express as px
 
-DATA_PATH = "/mnt/data/processed_survey.csv"
+DATA_PATH = "processed_survey.csv"
 
 def load_data():
     df = pd.read_csv(DATA_PATH)
